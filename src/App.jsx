@@ -1,9 +1,28 @@
 import React from 'react';
+import {
+  Blog,
+  Feature,
+  Footer,
+  Header,
+  Possibility,
+  Services,
+} from './containers';
+import { CTA, Brand, Navbar } from './components';
 //rafce
 const App = () => {
   return (
-    <div>
-      <h1>Jefclarem logistics</h1>
+    <div className="App">
+      <div className="gradient__bg">
+        <Navbar />
+        <Header />
+      </div>
+      <Brand />
+      <Services />
+      <Feature />
+      <Possibility />
+      <CTA />
+      <Blog />
+      <Footer />
     </div>
   );
 };
