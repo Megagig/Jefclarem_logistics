@@ -8,6 +8,7 @@ import {
   Services,
 } from './containers';
 import { CTA, Brand, Navbar } from './components';
+import './App.css';
 //rafce
 const App = () => {
   return (
