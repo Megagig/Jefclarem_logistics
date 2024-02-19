@@ -22,7 +22,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Remote Job App<a name="about-project"></a>
+# 📖 Jefclarem Logistics<a name="about-project"></a>
 
 **Jefclarem Logistics** is a company website for Jefclarem Integrated Logistics LTD. It was built with React, Redux and Redux toolkit.
 
