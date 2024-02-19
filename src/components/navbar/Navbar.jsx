@@ -10,6 +10,23 @@ const Navbar = () => {
         <div className="jefclarem__navbar-links-logo">
           <img src={logo} alt="logo" />
         </div>
+        <div className="jefclarem__navbar-links-container">
+          <p>
+            <a href="#home">Home</a>
+          </p>
+          <p>
+            <a href="#features">Services</a>
+          </p>
+          <p>
+            <a href="#possibility">About Us</a>
+          </p>
+          <p>
+            <a href="#blog">Blog</a>
+          </p>
+          <p>
+            <a href="#cta">Contact Us</a>
+          </p>
+        </div>
       </div>
     </div>
   );
