@@ -1,6 +1,6 @@
 import React from 'react';
 import people from '../../assets/people.png';
-import ai from '../../assets/ai.png';
+import logistics from '../../assets/logistics.png';
 import './header.css';
 
 const Header = () => {
@@ -33,7 +33,7 @@ const Header = () => {
       </div>
 
       <div className="jefclarem__header-image">
-        <img src={ai} />
+        <img src={logistics} />
       </div>
     </div>
   );
