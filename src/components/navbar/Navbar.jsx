@@ -10,7 +10,7 @@ const Menu = () => {
         <a href="#home">Home</a>
       </p>
       <p>
-        <a href="#features">Services</a>
+        <a href="#service_path">Services</a>
       </p>
       <p>
         <a href="#possibility">About Us</a>
