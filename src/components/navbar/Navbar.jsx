@@ -13,7 +13,7 @@ const Menu = () => {
         <a href="#service_path">Services</a>
       </p>
       <p>
-        <a href="#possibility">About Us</a>
+        <a href="#about">About Us</a>
       </p>
       <p>
         <a href="#blog">Blog</a>

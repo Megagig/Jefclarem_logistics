@@ -1,12 +1,5 @@
 import React from 'react';
-import {
-  Blog,
-  Feature,
-  Footer,
-  Header,
-  Possibility,
-  Services,
-} from './containers';
+import { Blog, Feature, Footer, Header, About, Services } from './containers';
 import { CTA, Brand, Navbar } from './components';
 import './App.css';
 //rafce
@@ -20,7 +13,7 @@ const App = () => {
       <Brand />
       <Services />
       <Feature />
-      <Possibility />
+      <About />
       <CTA />
       <Blog />
       <Footer />
