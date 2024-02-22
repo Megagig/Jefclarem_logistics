@@ -1,7 +1,7 @@
-import local from '../../assets/local_delivery.png';
-import International from '../../assets/International.png';
-import Worldwide from '../../assets/Worldwide.png';
-import Fast from '../../assets/Fast_delivery.png';
-import Packages from '../../assets/Packages.png';
+import blog01 from '../../assets/blog01.png';
+import blog02 from '../../assets/blog02.png';
+import blog03 from '../../assets/blog03.png';
+import blog04 from '../../assets/blog04.png';
+import blog05 from '../../assets/blog05.png';
 
-export { local, International, Worldwide, Fast, Packages };
+export { blog01, blog02, blog03, blog04, blog05 };
