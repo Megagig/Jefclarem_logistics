@@ -1,5 +1,6 @@
 import React from 'react';
 // import gpt3Logo from '../../logo.svg';
+import logo from '../../assets/jefclaremlogo.png';
 import './footer.css';
 
 const Footer = () => (
@@ -16,7 +17,7 @@ const Footer = () => (
 
     <div className="jefclarem__footer-links">
       <div className="jefclarem__footer-links_logo">
-        {/* <img src={gpt3Logo} alt="gpt3_logo" /> */}
+        <img src={logo} alt="jefclarem_logo" />
         <p>
           Crechterwoord K12 182 DK Alknjkcb, <br /> All Rights Reserved
         </p>
